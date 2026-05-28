@@ -54,14 +54,14 @@ const CONFIG = {
   seo: { title: 'GitProfile of Joy', description: 'Shows something about my GitHub.', imageURL: 'https://avatars.githubusercontent.com/u/84608852?v=4' },
   social: {
     linkedin: '',
-    x: 'joy40217',
+    x: '',
     mastodon: '',
     researchGate: '',
-    facebook: 'joy40217',
-    instagram: 'joy40217',
+    facebook: '',
+    instagram: '',
     reddit: '',
-    threads: 'joy40217',
-    youtube: 'joy40217', // example: 'pewdiepie'
+    threads: '',
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -69,7 +69,7 @@ const CONFIG = {
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: 'joy40217',
-    telegram: 'joy40217',
+    telegram: '',
     website: 'https://joy40217.github.io',
     phone: '',
     email: 'joy40217@gmail.com',

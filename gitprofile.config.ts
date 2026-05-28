@@ -51,28 +51,28 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Joy', description: '', imageURL: '' },
+  seo: { title: 'GitProfile of Joy', description: 'Shows something about my GitHub.', imageURL: 'https://avatars.githubusercontent.com/u/84608852?v=4' },
   social: {
     linkedin: '',
-    x: '',
+    x: 'joy40217',
     mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
+    facebook: 'joy40217',
+    instagram: 'joy40217',
     reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
+    threads: 'joy40217',
+    youtube: 'joy40217', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
-    discord: '',
-    telegram: '',
+    discord: 'joy40217',
+    telegram: 'joy40217',
     website: 'https://joy40217.github.io',
     phone: '',
-    email: '',
+    email: 'joy40217@gmail.com',
   },
   resume: {
     fileUrl:
@@ -86,6 +86,7 @@ const CONFIG = {
     'Docker',
     'CSS',
     'C++',
+    'Astro',
   ],
   experiences: [
     /*{
@@ -112,13 +113,13 @@ const CONFIG = {
     },*/
   ],
   educations: [
-    /*{
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
     {
+      institution: 'National Chung Hsing University',
+      degree: 'Undergraduate',
+      from: '2020',
+      to: '2024',
+    },
+    /*{
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2012',
